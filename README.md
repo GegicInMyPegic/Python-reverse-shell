@@ -8,7 +8,7 @@
 	<ul>
         <li>✅ <strong>Device Selection</strong> – Lists available devices to connect to.</li>
         <li>✅ <strong>File Transfer</strong> – Upload and download files between the client and server.</li>
-        <li>✅ <strong>Persistent Access</strong> – If on a Windows-based machine, the file will be copied into the startup folder.</li>
+        <li>✅ <strong>Persistent Access</strong> – If running on a Windows-based machine, the file will be copied into the startup folder.</li>
         <li>✅ <strong>Remote Access</strong> – Works over the internet with DDNS and port forwarding.</li>
   </ul>
 
