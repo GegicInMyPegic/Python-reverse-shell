@@ -1,9 +1,6 @@
 <h1>Python Reverse Shell</h1>
 <p>A Python-based reverse shell with file transfer capabilities.</p>
 
-  <h2>⚠️ Disclaimer</h2>
-	<p>This project is for educational and authorized testing purposes only. Unauthorized use of this tool is illegal. The author is not responsible for any misuse.</p>
-
   <h2>Features</h2>
 	<ul>
         <li>✅ <strong>Device Selection</strong> – Lists available devices to connect to.</li>
